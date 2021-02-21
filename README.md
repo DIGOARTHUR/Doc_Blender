@@ -4,7 +4,28 @@
 
 <ul>
   <li>
-  <img  alt="logo_Blender"  src="https://user-images.githubusercontent.com/59892368/108612884-43eb9500-73cb-11eb-84c2-b9973bae8393.png"></img>
+  SHIFT + A 
+    
+>CREATES POLYGON / FIGURES
   </li>
+  
+   G + X/Y/Z
+    
+>MOVES THE OBJECT IN THE DIRECTION OF THE CHOSEN AXIS.
+  </li>
+  
+  
+   S + X/Y/Z
+    
+
+>THE POLYGON INCREASES IN SIZE FOR BOTH SIDES IN THE CHOSEN DIRECTION.
+  </li>
+  
+  
+   CTRL + R
+    
+>MARKING LINES / DIVISION LINES
+  </li>
+  
   
  </ul>
