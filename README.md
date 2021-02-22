@@ -28,4 +28,13 @@
   </li>
   
   
+   <li>
+  
+   SHIFT +ALT + Z
+    
+>REMOVE ALL ELEMENTS FROM THE ENVIROMENT, ONLY THE OBJECT REAMAINS. 
+  </li>
+  
+ 
+  
  </ul>
