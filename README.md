@@ -5,6 +5,13 @@
 <ul>
   
   
+    <li>
+  SELECIONA OBJETO ESPECÍFICO /  SHIFT + SELECIONA AS REGIÕES DO OBJETO
+    
+> AQUI O OBJETO ESPECÍFICO É SELECIONADO
+  </li>
+  
+  
   <li>
   SELECIONA /  SELECIONA + ALT + E + S
     
