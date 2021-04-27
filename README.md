@@ -9,11 +9,12 @@
   SELECIONA OBJETO ESPECÍFICO /  SHIFT + SELECIONA AS REGIÕES DO OBJETO
   
   
+  > AQUI O OBJETO ESPECÍFICO É SELECIONADO
   
    <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/116322089-b729d280-a791-11eb-80d9-a2a1cace330c.mp4"></video>
   
     
-> AQUI O OBJETO ESPECÍFICO É SELECIONADO
+
   </li>
   
   
@@ -21,6 +22,12 @@
   SELECIONA /  SELECIONA + ALT + E + S
     
 > ESSE COMANDO FARÁ UMA EXTRUSÃO DISTANCIANDO OU APROXIMANDO DO CENTRO
+
+
+  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/116324171-040fa800-a796-11eb-9758-9e84f32f2c33.mp4"></video>
+
+
+
   </li>
   
   
