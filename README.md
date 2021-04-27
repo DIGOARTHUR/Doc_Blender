@@ -7,6 +7,11 @@
   
    <li>
   SELECIONA OBJETO ESPECÍFICO /  SHIFT + SELECIONA AS REGIÕES DO OBJETO
+  
+  
+  
+   <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/116322089-b729d280-a791-11eb-80d9-a2a1cace330c.mp4"></video>
+  
     
 > AQUI O OBJETO ESPECÍFICO É SELECIONADO
   </li>
