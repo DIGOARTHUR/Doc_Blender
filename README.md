@@ -58,23 +58,13 @@
     
 >CREATES POLYGON / FIGURES
   </li>
-  <li>
-   G + X/Y/Z
-    
->MOVES THE OBJECT IN THE DIRECTION OF THE CHOSEN AXIS.
-  </li>
-  <li>
   
-   S + X/Y/Z
-    
+  
 
->THE POLYGON INCREASES IN SIZE FOR BOTH SIDES IN THE CHOSEN DIRECTION.
-  </li>
   <li>
-  
    CTRL + R
     
->MARKING LINES / DIVISION LINES
+> ACRESCENTA LINHAS DE CORTE
   </li>
   
   
