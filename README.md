@@ -35,6 +35,11 @@
   SELECIONANDO UM OBJETIVO POR INTEIRO /  SELECIONA   MOUSE POR CIMA DA REGIÃO NÃO SELECIONADO + L
     
 > UMA PARTE DO OBJETO É SELECIONADO E LOGO DEPOIS FICARÁ SELECIONADO POR INTEIRO
+ 
+ <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/117580382-1363ef00-b0ce-11eb-8d4f-88a29109c8e6.mp4"></video>
+
+
+
   </li>
   
   
@@ -42,12 +47,25 @@
   SELECIONA UM VÉRTICE /  CRTL + (+)
     
 > OS VÉRTICES / REGIÃO ADJACENTES SEQUENCIAIS SÃO SELECIONADOS A CADA (+) CLICADO
+
+ <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/117580416-32fb1780-b0ce-11eb-8cc7-52c2bf0ebfb4.mp4"></video>
+
+
+
+
+
   </li>
   
    <li>
   SELECIONA /  R + X/Y/Z/  (Indique o ângulo)
     
 > ROTACIONA O OBJETO 
+
+
+  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/117580267-946eb680-b0cd-11eb-849b-550f7ccb49f2.mp4"></video>
+
+
+
   </li>
   
   
@@ -58,9 +76,12 @@
   </li>
   
    <li>
-  SELECIONE FACE, VÉRTICE  / G + BOTAO ESQUERDO + DIREÇÃO X/Y/Z
+  SELECIONE VÉRTICE ; ARESTA ; FACE ;  / G + DIRECIONAR O MOUSE + ESPECIFICAR DIREÇÃO X/Y/Z
     
-> ESTICA OU ENCOLHE O POLIGONO NA DIREÇÃO ESCOLHIDA
+> MOVE OU ESTICA OU ENCOLHE O POLIGONO NA DIREÇÃO ESCOLHIDA
+
+<video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/117581314-88d1be80-b0d2-11eb-8bc9-a3f99e0e507e.mp4"></video>
+
   </li>
   
   
@@ -92,7 +113,9 @@
   
    SHIFT + BOTÃO MEIO (MOUSE)
     
-> DIRECTS THE SCREEN TO A SPECIFIC REGION.
+> PRENDE A TELA E DIRECIONA NA REGIÃO ESPECÍFICA
+<video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/117581101-7c009b00-b0d1-11eb-9dd9-b6f717b164cc.mp4"></video>
+
   </li>
   
   
@@ -122,17 +145,29 @@
   
   <li>
   
-  PREENCHER ESPAÇO VAZIO POLÍGONO / SELECIONE AS ARESTAS + F
+  PREENCHER ESPAÇO VAZIO POLÍGONO / SELECIONE OS VÉRTICES + F
     
 > ESTE COMANDO IRÁ PREENCHER COM UMA FACE O ESPAÇO VAZIO
+ 
+ <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/117580530-b61c6d80-b0ce-11eb-8072-7c9cf782eb2b.mp4"></video>
+
   </li>
   
   
   <li>
   
-  SELECIONE VÁRIAS FACE ; ARESTA ; VÉRTICE (VERIFICAR NA BARRA QUE HÁ ESTA OPÇÃO) /  S + ARRASTAR O MOUSE  SHIFT + Z/X/Y
+  SELECIONE VÉRTICE ; ARESTA ; FACE ;  /  S + ARRASTAR O MOUSE  SHIFT + Z/X/Y
     
 > A PROPRIEDADE SELECIONADA É DIRECIONADA(ESTICADA OU ENCOLHIDA) DE FORMA PERPENDICULAR AO EIXO ESCOLHIDO
+
+
+
+
+
+
+
+
+
   </li>
   
   
