@@ -73,6 +73,12 @@
   SELECIONE TUDO /  A + H   ->   ALT + H
     
 > ESCONDE O SÓLIDO / OBJETO  -> OBJETO REAPARECE
+
+<video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/117581809-17dfd600-b0d5-11eb-9010-7ca89d490b4e.mp4"></video>
+
+
+
+
   </li>
   
    <li>
